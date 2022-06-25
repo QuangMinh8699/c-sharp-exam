@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-exam", "c-sharp-exam\c-sharp-exam.csproj", "{A133A03D-DDE9-43B9-9241-36FE0F9E51BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A133A03D-DDE9-43B9-9241-36FE0F9E51BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A133A03D-DDE9-43B9-9241-36FE0F9E51BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A133A03D-DDE9-43B9-9241-36FE0F9E51BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A133A03D-DDE9-43B9-9241-36FE0F9E51BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E621608-24A2-48F6-970F-6C4E1A34FA42}
+	EndGlobalSection
+EndGlobal
